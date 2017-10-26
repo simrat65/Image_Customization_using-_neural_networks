@@ -1,10 +1,10 @@
 # neural-style
 
 This is a torch implementation of the paper [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
-by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge.
+by Leon A. Gatys, Alexander S. Ecker and Matthias Bethge.
 
-The paper presents an algorithm for combining the content of one image with the style of another image using
-convolutional neural networks. Here's an example that maps the artistic style of
+The paper presents an algorithm for combining the content of one image with the style of another image using the concept of 
+Convolutional Neural Networks(CNNs). Here's an example that maps the artistic style of
 [The Starry Night](https://en.wikipedia.org/wiki/The_Starry_Night)
 onto a night-time photograph of the Stanford campus:
 
